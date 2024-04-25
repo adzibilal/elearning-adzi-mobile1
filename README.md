@@ -13,13 +13,14 @@ Aplikasi Android ini mendemonstrasikan berbagai fungsi termasuk menampilkan tang
 
 ## Cara Install
 
-Clone atau download repository project ini.
-Pastikan Anda memiliki Android Studio yang terinstal di komputer Anda.
-Buka project di Android Studio.
-Jalankan aplikasi pada emulator atau perangkat yang terhubung.
-Fungsi Aplikasi
+- Clone atau download repository project ini.
+- Pastikan Anda memiliki Android Studio yang terinstal di komputer Anda.
+- Buka project di Android Studio.
+- Jalankan aplikasi pada emulator atau perangkat yang terhubung.
 
-## Saat dibuka, aplikasi akan menampilkan layar dengan lima tombol dan dua bidang teks:
+## Fungsi Aplikasi
+
+### Saat dibuka, aplikasi akan menampilkan layar dengan lima tombol dan dua bidang teks:
 
 ### Show Date Time (Tampilkan Tanggal dan Waktu): 
 Menekan tombol ini akan membuka dialog pemilihan tanggal. Memilih tanggal akan membuka dialog pemilihan waktu. Tanggal dan waktu yang dipilih kemudian akan ditampilkan di tampilan teks di bagian atas layar.
