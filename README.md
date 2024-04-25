@@ -37,8 +37,10 @@ Bidang teks ini memungkinkan Anda untuk memasukkan nomor telepon.
 ### Check Phone Number (Periksa Nomor Telepon): 
 Menekan tombol ini akan memvalidasi nomor telepon yang dimasukkan pada bidang teks. Jika nomor telepon valid, maka akan muncul toast yang menyatakan bahwa nomor tersebut valid. Sebaliknya, toast yang muncul akan menyatakan bahwa nomor telepon tidak valid.
 
+### Screen Shot:
+![image](https://github.com/adzibilal/elearning-adzi-mobile1/assets/41812877/3e6e498f-7808-44b3-bd77-2d9701a6d836)
 
-Detail Teknis
+## Detail Teknis
 
 Aplikasi ini ditulis dalam bahasa Java dan menggunakan Android SDK untuk pengembangan. Layout dibuat menggunakan XML.
 
